@@ -1,2 +1,2 @@
 # coursera
-HTML,CSS,Java script Course
+HTML, CSS, Java script Course
